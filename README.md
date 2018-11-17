@@ -1,4 +1,6 @@
 # Flask project template
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxen%2Fflask-project-template.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxen%2Fflask-project-template?ref=badge_shield)
+
 
 `Flask project template` contains working example of Flask project with features:
 
@@ -302,3 +304,7 @@ Also `local.cfg` is ignored in `.gitignore` so you will not accidentally put you
 ## `app.py` — cornerstone part of your application
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxen%2Fflask-project-template.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxen%2Fflask-project-template?ref=badge_large)
